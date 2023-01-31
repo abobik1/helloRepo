@@ -6,6 +6,7 @@ fun main(){
             Employee("Alice", "Microsoft"),
             Employee("Kate", "Google")
         )
+    ffghvghjnf cjhfvu cbnnfg nmnbfcbdfhtb
         val companies = employees.groupBy { it.company }    // объект Map<String, List<Employee>>
      
         println(companies) // {Microsoft=[Tom, Alice], JetBrains=[Bob], Google=[Sam, Kate]}
